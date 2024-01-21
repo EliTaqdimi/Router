@@ -1,0 +1,21 @@
+.contact{
+  background-color: #ccc;
+  padding: 70px 50px;
+  margin: 50px 50px;
+}
+.contact h1{
+  font-size: 40px;
+  font-weight: 700;
+  color: red;
+}
+.contact p{
+  font-size: 20px;
+  font-weight: 200;
+  color: #3f3d3d;
+}
+.btn-contact{
+  background-color: red;
+  color: #fff;
+  padding: 10px 20px;
+  border: 1px solid red;
+}

@@ -1,0 +1,11 @@
+.about{
+  padding: 40px 50px;
+  background-color: #ccc;
+  margin: 50px 30px;
+}
+.btn-about{
+  background-color: red;
+  color: #fff;
+  padding: 10px 20px;
+  border: 1px solid red;
+}
